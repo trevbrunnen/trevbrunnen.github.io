@@ -1,19 +1,27 @@
-## Portfolio
+## Portfolio of Select Data Science and Machine Learning Projects
 
----
 
-### Category Name 1 
+#### Hiscores Analysis for Runescape's Fresh Start Worlds
 
-[Analysis of Runescape Fresh Start Worlds Hiscores](../RunescapeFSW/FSW Hiscore Analysis.ipynb)
+An analysis of the top players of the Runescape Fresh Start Worlds' competitive period. The data for this project was scraped from the Runescape Hiscores using Beautiful Soup and then analyzed in Python using pandas, matplotlib, and Seaborn.
+
+[View the project on Github](https://github.com/trevbrunnen/RunescapeFSW)
+
 <img src="images/Rank2475Exp_RS3_FSW.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### PokéGAN: A Neural Network for Making Fake Pokémon Sprites
+Used Keras to build a Generative Adversarial Network (GAN) to generate new Pokémon sprites. In the project I experimented with different depths of CNNs and various ways to train the GAN.
+
+<img src="images/ExampleSprites.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+#### Generating Handwritten Digits
+
+Used the MNIST handwritten digits to train a GAN to generate fake handrwitten digits. In this project I learned to use Keras to build Convolution Neural Networks while using a well curated data-set.
+
+<img src="images/ExampleDigits.png?raw=true"/>
 
 ---
 
