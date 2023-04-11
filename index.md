@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analysis of Runescape Fresh Start Worlds Hiscores](../RunescapeFSW/FSW Hiscore Analysis.ipynb)
+<img src="images/Rank2475Exp_RS3_FSW.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
