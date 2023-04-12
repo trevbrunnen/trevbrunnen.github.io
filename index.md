@@ -1,5 +1,6 @@
 ## Portfolio of Select Data Science and Machine Learning Projects
 
+---
 
 #### Hiscores Analysis for Runescape's Fresh Start Worlds
 
