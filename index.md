@@ -30,7 +30,7 @@ Used the MNIST handwritten digits to train a GAN to generate fake handrwitten di
 
 Each quarter we would have an hour plus meeting to assign TAs to tutorial and lab sections. This process was slow and inequitable, as the TAs who spoke loudest and quickest often got the better assignments. I took the initiative to collect ranked preferences from each TA and then wrote code in Python to optimize the assignments based on the groups preferences. This reduced the required meeting time by 50% and improved the equity in assignments.
 
-[Code here] (https://github.com/trevbrunnen/extra-code/blob/ca479f8b206c3bf1663a77f7268add8c3b18a195/betterTAAssignments.py)
+[Code here](https://github.com/trevbrunnen/extra-code/blob/ca479f8b206c3bf1663a77f7268add8c3b18a195/betterTAAssignments.py)
 
 ---
 
