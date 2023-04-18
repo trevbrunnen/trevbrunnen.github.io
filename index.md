@@ -12,7 +12,7 @@ An analysis of Runescape Fresh Start Worlds players in the main game after the c
 
 ---
 
-#### [Hiscores Analysis for Runescape's Fresh Start Worlds](FSWAnalysis_competitive.md)
+### [Hiscores Analysis for Runescape's Fresh Start Worlds](FSWAnalysis_competitive.md)
 
 An analysis of the top players of the Runescape Fresh Start Worlds' competitive period. The data for this project was scraped from the Runescape Hiscores using Beautiful Soup and then analyzed in Python using pandas, matplotlib, and Seaborn.
 
@@ -21,14 +21,14 @@ An analysis of the top players of the Runescape Fresh Start Worlds' competitive 
 <img src="images/Rank2475Exp_RS3_FSW.png?raw=true"/>
 
 ---
-#### PokéGAN: A Neural Network for Making Fake Pokémon Sprites
+### PokéGAN: A Neural Network for Making Fake Pokémon Sprites
 Used Keras to build a Generative Adversarial Network (GAN) to generate new Pokémon sprites. In the project I experimented with different depths of CNNs and various ways to train the GAN.
 
 <img src="images/ExampleSprites.png?raw=true"/>
 
 ---
 
-#### Generating Handwritten Digits
+### Generating Handwritten Digits
 
 Used the MNIST handwritten digits to train a GAN to generate fake handrwitten digits. In this project I learned to use Keras to build Convolution Neural Networks while using a well curated data-set.
 
@@ -36,7 +36,7 @@ Used the MNIST handwritten digits to train a GAN to generate fake handrwitten di
 
 ---
 
-#### Set Tutorial and Lab Teaching Assignments
+### Set Tutorial and Lab Teaching Assignments
 
 Each quarter we would have an hour plus meeting to assign TAs to tutorial and lab sections. This process was slow and inequitable, as the TAs who spoke loudest and quickest often got the better assignments. I took the initiative to collect ranked preferences from each TA and then wrote code in Python to optimize the assignments based on the groups preferences. This reduced the required meeting time by 50% and improved the equity in assignments.
 
