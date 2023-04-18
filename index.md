@@ -2,7 +2,7 @@
 
 ---
 
-#### Hiscores Analysis for Runescape's Fresh Start Worlds - Part 2
+#### [Hiscores Analysis for Runescape's Fresh Start Worlds - Part 2](FSWAnalysis.md)
 
 An analysis of Runescape Fresh Start Worlds players in the main game after the conclusion of Fresh Start Worlds. The data for this project was scraped from the Runescape Hiscores using Beautiful Soup and then analyzed in Python using pandas, matplotlib, and Seaborn. Finally, I did a k-means clustering analysis using sklearn and visualized the cluster centers using Seaborn.
 
@@ -12,7 +12,7 @@ An analysis of Runescape Fresh Start Worlds players in the main game after the c
 
 ---
 
-#### Hiscores Analysis for Runescape's Fresh Start Worlds
+#### [Hiscores Analysis for Runescape's Fresh Start Worlds](FSWAnalysis.md)
 
 An analysis of the top players of the Runescape Fresh Start Worlds' competitive period. The data for this project was scraped from the Runescape Hiscores using Beautiful Soup and then analyzed in Python using pandas, matplotlib, and Seaborn.
 
