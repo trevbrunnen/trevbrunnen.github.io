@@ -2,6 +2,16 @@
 
 ---
 
+#### Hiscores Analysis for Runescape's Fresh Start Worlds - Part 2
+
+An analysis of Runescape Fresh Start Worlds players in the main game after the conclusion of Fresh Start Worlds. The data for this project was scraped from the Runescape Hiscores using Beautiful Soup and then analyzed in Python using pandas, matplotlib, and Seaborn. Finally, I did a k-means clustering analysis using sklearn and visualized the cluster centers using Seaborn.
+
+[View the project on Github](https://github.com/trevbrunnen/RunescapeFSW)
+
+<img src="images/FSW_Cluster_BarChart.png?raw=true"/>
+
+---
+
 #### Hiscores Analysis for Runescape's Fresh Start Worlds
 
 An analysis of the top players of the Runescape Fresh Start Worlds' competitive period. The data for this project was scraped from the Runescape Hiscores using Beautiful Soup and then analyzed in Python using pandas, matplotlib, and Seaborn.
