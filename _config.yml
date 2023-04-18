@@ -1,10 +1,8 @@
 title: Trevor Brunnenmeyer, PhD # your name (or website title) here
 logo: "/images/New LinkedIn Profile Picture.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Using the skills developed earning a PhD in Physics to solve Data Science problems. 
-  <br><br>
-  Website a work in progess. Full release soon! 
-  <br><br>
+  Using the skills developed earning a PhD in Physics to solve Data Science problems.
+  <br>
   <a href="https://www.linkedin.com/in/trevor-brunnenmeyer/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
