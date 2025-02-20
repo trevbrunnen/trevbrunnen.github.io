@@ -5,7 +5,7 @@ For each of the responses I put the prompt below into ChatGPT. I have copied the
 ## Prompt:
 
 I am a professor teaching an introductory physics course for non-majors. I would like a practice problem to help test my students' understanding of one of our learning outcomes. The learning outcome is: 
-<Learning Outcome>
+Learning Outcome
 
 Please write a problem that will assess their understanding of this learning outcome. Give your response a bold title with a name for the problem. The problem should have 2 or 3 parts and be suitable for an undergraduate student in an algebra based class. After the problem, write a solution to the problem. The solution should walk through your work step by step in a bulleted list. After the bulleted list, write a complete sentence stating the answer. Use plain text instead of LaTeX to format your response.
 
